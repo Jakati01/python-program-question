@@ -5,5 +5,3 @@ if sorted(s1) == sorted(s2):
     print("They are anagrams")
 else:
     print("They are not anagrams")
-
-
